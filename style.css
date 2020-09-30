@@ -42,7 +42,7 @@ a {
     
 }
 
-p a {
+.str {
     text-align: center;
     font-family: Arial;
     background-color: #00a5a5;
